@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2025 CommodityFirst
+    Official CommodityFirst Logo Iconic Mark Only in Charcoal.
+    Usage:
+    - Use for black and white digital and print.
+    - Do not alter proportions, colors, or layout.
+    - Contact info@commodityfirst.com for permission on commercial use.
+    
+    File name: CommodityFirst Logo - IC.svg
+    Author: Tim Haaijman (t.haaijman@commodityfirst.com)
+    Version: {{GITHUB_VERSION_ID}}
+-->
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 543.03 543.03">
+  <defs>
+    <style>
+      .st0 {fill: #1c1c1e;}
+
+      .st1 {fill: #fff;}
+    </style>
+  </defs>
+  <rect class="st0" width="543.03" height="543.03"/>
+  <rect class="st1" x="278.03" y="161.51" width="200" height="60"/>
+  <rect class="st1" x="278.03" y="241.51" width="130" height="60"/>
+  <rect class="st1" x="278.03" y="321.51" width="65" height="60"/>
+  <path class="st1" d="M170.28,321.51v-.05c-61.83-2.72-61.79-97.19,0-99.89v-.05h92.75v-60h-95v.12c-137.41,5.99-137.33,213.8,0,219.76v.12h95v-60"/>
+</svg>
