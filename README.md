@@ -12,7 +12,8 @@ This repository contains official logo assets of CommodityFirst for use in digit
 
 | Format | Acronym Meaning | Use Cases |
 |--------|-----------------|-----------|
-| `.ai`  | **Adobe Illustrator** | Source files / master editable files |
+| `.ai`  | **Adobe Illustrator** | Source files for vector images |
+| `.psd`  | **Adobe Photoshop** | Source files for raster images |
 | `.eps` | **Encapsulated PostScript** | Preferred for professional printing and advanced layout tools (e.g., InDesign, Illustrator, etc.) |
 | `.svg` | **Scalable Vector Graphics** | Best for websites, mobile apps, and Microsoft Office (Windows). Resolution-independent and compact |
 | `.png` | **Portable Network Graphics** | Use when SVG isn't supported (e.g., email signatures, older Office for Mac, social media, etc.) |
